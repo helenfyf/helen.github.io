@@ -1,0 +1,24 @@
+body{
+   background-color:#00ff00; 
+   background-image: url("../img/fone.jpg");
+   background-position: center;
+   background-repeat: no-repeat;
+}
+.down{
+   border: solid 2px #1ad111;
+   
+   
+}
+.non{
+   border-bottom: none;
+
+}
+h1{
+   text-align: center;
+   color: rgb(255, 0, 0);
+}
+td{
+   width: 150px;
+   height: 150px;
+  
+}
